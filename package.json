@@ -18,9 +18,6 @@
   ],
   "author": "Octavio Paz",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/octaviopaz7/Fake-API/issues"
-  },
   "homepage": "https://github.com/octaviopaz7/Fake-API",
   "dependencies": {
     "cors": "^2.8.5",
