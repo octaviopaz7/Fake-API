@@ -1,0 +1,30 @@
+{
+  "name": "fake-api",
+  "version": "1.0.0",
+  "description": "fake api reutilizable",
+  "main": "index.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/octaviopaz7/Fake-API.git"
+  },
+  "keywords": [
+    "fake",
+    "json-server",
+    "javascript",
+    "API"
+  ],
+  "author": "Octavio Paz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octaviopaz7/Fake-API/issues"
+  },
+  "homepage": "https://github.com/octaviopaz7/Fake-API",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
+  }
+}
